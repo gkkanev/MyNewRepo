@@ -2,5 +2,5 @@
 
 git commands:
 	-git add
-	-git push
 	-git commit
+	-git push
